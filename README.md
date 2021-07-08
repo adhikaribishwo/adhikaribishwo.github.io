@@ -1,9 +1,9 @@
-Hello and Welcome my page. 
+## Personal Page 
 
-This is the place where I share my works. 
+Hello and welcome to my page! 
+
 
 
 ---
 
-This was forked from the [Academicpages](https://github.com/academicpages/academicpages.github.io). 
-See more info at https://academicpages.github.io/
+This page is heavily based on the forked from the [Academicpages](https://github.com/academicpages/academicpages.github.io).
