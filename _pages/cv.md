@@ -55,7 +55,7 @@ Skills
 * Machine Learning
   * Deep learning, Computer Vision
   * Object Detection, Instance Segmentation
-  * Image Classification, Efficent Annotation
+  * Image Classification, Efficent Image Annotation
 * Programming
   * Python, Matlab, R, C++
   * SQL, Web Development
@@ -66,7 +66,7 @@ Skills
   * AWS, Azure
 
   
-Service and leadership
+Service and Leadership
 ==========
 * [TATTE](https://tieteentekijat.fi/en/union-close-to-you/member-associations/tampereen-yliopiston-tieteentekijat-ry-tatte/) board member, 2021
 * Team leader on the Demola Project from M-files.
