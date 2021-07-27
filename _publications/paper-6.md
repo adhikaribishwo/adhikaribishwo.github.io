@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/paper-6
 excerpt: 'Towards a Real-Time Facial Analysis System.'
 date:   'October 2021'
-venue: ' IEEE 23rd International Workshop on Multimedia Signal Processing (MMSP), Oct 2021'
+venue: ' IEEE 23rd International Workshop on Multimedia Signal Processing (MMSP)'
 # paperurl: 'https://arxiv.org/abs/2105.04678'
 citation: ' B.  Adhikari, X. Ni, E.Rahtu,  and  H.  Huttunen,  “Towards a Real-Time Facial Analysis System”, in IEEE 23rd International Workshop on Multimedia Signal Processing (MMSP), Oct 2021'
 ---
@@ -18,7 +18,7 @@ This paper presents a system-level design of a real-time facial analysis system.
 
 <!-- [Download demo version of paper here](https://arxiv.org/abs/2105.04678) -->
 
-<!-- More information coming soon ... -->
+More information coming soon ...
 
 
 <!-- Cite this article as:

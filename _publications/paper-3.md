@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/paper-3
 excerpt: 'This paper proposes an efficeint sample selection techniques for the image annotation.'
 date:  June 2021
-venue: '9th European Workshop on Visual Information Processing (EUVIP), Jun 2021'
+venue: '9th European Workshop on Visual Information Processing (EUVIP)'
 paperurl: 'https://ieeexplore.ieee.org/document/9484022'
 citation: 'B. Adhikari, E. Rahtu and H. Huttunen, "Sample Selection for Efficient Image Annotation", 2021 9th European Workshop on Visual Information Processing (EUVIP), 2021, pp. 1-6, doi: 10.1109/EUVIP50544.2021.9484022.'
 ---
