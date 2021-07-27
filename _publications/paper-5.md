@@ -6,7 +6,7 @@ excerpt: 'A path library-based method to predict future paths of mobile objects.
 date: 'March 2021'
 venue: '24th Automation Conference of the Finnish Society of Automation'
 # paperurl: 'http://adhikaribishwo.github.io/files/paper4.pdf'
-# citation: ' B.  Adhikari, E.Rahtu,  and  H.  Huttunen,  “Sample Selection for Efficient Image Annotation,” in 9th European Workshop on Visual Information Processing (EUVIP), 2021'
+citation: ' H. Leppäkoski, B. Adhikari, L. Raivio and R.Ritala  “Prediction of Future Paths of Mobile Objects Using Path Library,” in 24th Automation Conference of the Finnish Society of Automation, 2021'
 ---
 This paper introduces a privacy-preserving instance-based prediction method, where a path library is collected by learning earlier paths of mobile objects in the area of surveillance. The predictions are based on the library of the observed past paths in the area and a short initial path segment that is estimated from the coordinates of the most recent object detections from an inexpensive, privacy-preserving vision system.
 
