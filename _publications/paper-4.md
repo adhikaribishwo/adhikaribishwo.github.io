@@ -2,9 +2,9 @@
 title: "Effect of label noise on robustness of deep neural network object detectors"
 collection: publications
 permalink: /publication/paper-4
-excerpt: 'This paper is about the effect of label noise (training data) on object detectors.'
-date: 'October 2021'
-venue: 'SAFECOMP Workshops'
+excerpt: 'This paper is studies the effect of label noise on training dataset for deep learning object class detectors.'
+date: 'September 2021'
+venue: 'SAFECOMP Workshops 2021'
 # paperurl: 'http://adhikaribishwo.github.io/files/paper4.pdf'
 
 ---
