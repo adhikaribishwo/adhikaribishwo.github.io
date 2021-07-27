@@ -14,7 +14,7 @@ This paper presents a system-level design of a real-time facial analysis system.
 
 <!-- The paper investigates practical implementation issues of multiple algorithms for facial processing tasks integrated within a single system. The authors discuss age, gender, and smile recognition, as well as face similarity against a celebrities dataset. In particular, the authors claim that multi-task learning significantly reduces computational complexity of their solution. -->
 <!--  -->
-<!-- <!-- The paper employs known techniques, however it is interesting to have a number of tasks and approaches under the same roof, with a focus on task accuracy and real-time performance. --> -->
+<!-- <!-- The paper employs known techniques, however it is interesting to have a number of tasks and approaches under the same roof, with a focus on task accuracy and real-time performance. -->
 
 <!-- [Download demo version of paper here](https://arxiv.org/abs/2105.04678) -->
 
