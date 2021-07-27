@@ -6,7 +6,7 @@ excerpt: 'This paper proposes an efficeint sample selection techniques for the i
 date:  June 2021
 venue: '9th European Workshop on Visual Information Processing (EUVIP), Jun 2021'
 paperurl: 'https://ieeexplore.ieee.org/document/9484022'
-citation: 'B. Adhikari, E. Rahtu and H. Huttunen, "Sample Selection for Efficient Image Annotation," 2021 9th European Workshop on Visual Information Processing (EUVIP), 2021, pp. 1-6, doi: 10.1109/EUVIP50544.2021.9484022.'
+citation: 'B. Adhikari, E. Rahtu and H. Huttunen, "Sample Selection for Efficient Image Annotation", 2021 9th European Workshop on Visual Information Processing (EUVIP), 2021, pp. 1-6, doi: 10.1109/EUVIP50544.2021.9484022.'
 ---
 This paper proposes sample selection techniques for bounding box annotation of object detection datasets. The method selects and sorts informative images into mini-batches that will lead to less annotation work; utilizing the human-machine collaboration in the continuous train-annotate loop. 
 
