@@ -10,9 +10,15 @@ citation: ' B.  Adhikari, X. Ni, E.Rahtu,  and  H.  Huttunen,  “Towards a Real
 ---
 This paper presents a system-level design of a real-time facial analysis system. The system consists of a collection of deep neural networks for object detection, classification, and regression tasks that together recognize the age, gender, facial expression, and facial similarity for each person appearing in the camera view.
 
+<!-- This paper presents a system-level design of a human facial analysis system with a multi-threaded architecture to reach real-time operation on resource-limited devices. With a collection of deep neural networks for object detection, classiﬁcation, and regression, the system recognizes age, gender, facial expression, and facial similarity for each person that appears in the camera view. -->
+
+<!-- The paper investigates practical implementation issues of multiple algorithms for facial processing tasks integrated within a single system. The authors discuss age, gender, and smile recognition, as well as face similarity against a celebrities dataset. In particular, the authors claim that multi-task learning significantly reduces computational complexity of their solution. -->
+<!--  -->
+<!-- <!-- The paper employs known techniques, however it is interesting to have a number of tasks and approaches under the same roof, with a focus on task accuracy and real-time performance. --> -->
+
 <!-- [Download demo version of paper here](https://arxiv.org/abs/2105.04678) -->
 
-More information coming soon ...
+<!-- More information coming soon ... -->
 
 
 <!-- Cite this article as:
