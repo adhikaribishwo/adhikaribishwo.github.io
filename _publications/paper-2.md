@@ -20,8 +20,6 @@ Cite this article as:
   booktitle={2020 25th International Conference on Pattern Recognition (ICPR)}, 
   title={Iterative Bounding Box Annotation for Object Detection}, 
   year={2021},
-  volume={},
-  number={},
   pages={4040-4046},
   doi={10.1109/ICPR48806.2021.9412956}}
  
