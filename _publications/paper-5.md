@@ -3,7 +3,7 @@ title: "Prediction of future paths of mobile objects using path library"
 collection: publications
 permalink: /publication/paper-5
 excerpt: 'A path library-based method to predict future paths of mobile objects.'
-date: 'Mar 2021'
+date: 'March 2021'
 venue: '24th Automation Conference of the Finnish Society of Automation'
 # paperurl: 'http://adhikaribishwo.github.io/files/paper4.pdf'
 # citation: ' B.  Adhikari, E.Rahtu,  and  H.  Huttunen,  “Sample Selection for Efficient Image Annotation,” in 9th European Workshop on Visual Information Processing (EUVIP), 2021'
