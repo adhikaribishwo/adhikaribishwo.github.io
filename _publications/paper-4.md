@@ -5,8 +5,8 @@ permalink: /publication/paper-4
 excerpt: 'This paper is studies the effect of label noise on training dataset for deep learning object class detectors.'
 date: 'September 2021'
 venue: 'SafeComp, WAISE 2021'
-# paperurl: 'http://adhikaribishwo.github.io/files/paper4.pdf'
-citation: ' B.  Adhikari, J. Peltomäki, S.B. Ghermi, E.Rahtu,  and  H.  Huttunen,  “Effect of Label Noise on Robustness of Deep Neural Network Object Detectors”, in 40th International Conference on Computer Safety, Reliability and Security (SafeComp 2021) Workshops, Sept 2021'
+paperurl: 'https://doi.org/10.1007/978-3-030-83906-2_19'
+citation: 'Adhikari B., Peltomäki J., Germi S.B., Rahtu E., Huttunen H. (2021) Effect of Label Noise on Robustness of Deep Neural Network Object Detectors. In: Habli I., Sujan M., Gerasimou S., Schoitsch E., Bitsch F. (eds) Computer Safety, Reliability, and Security. SAFECOMP 2021 Workshops. SAFECOMP 2021. Lecture Notes in Computer Science, vol 12853. Springer, Cham. https://doi.org/10.1007/978-3-030-83906-2_19'
 
 ---
 This paper studies the sensitivity of object detection loss functions to label noise in bounding box detection tasks.
@@ -21,10 +21,14 @@ This paper studies the sensitivity of object detection loss functions to label n
 Cite this article as:
 
 ```
-@article{labelnoise_2021,
-title={Effect of Label Noise on Robustness of Deep Neural Network Object Detectors},
-author={B. {Adhikari} and J. {Peltomäki} and S.B. {Ghermi} and E. {Rahtu} and H. {Huttunen}},
-journal={SAFECOMP Workshops},
-year={2021},
-}
+@InProceedings{adhikari_2021LN,
+author="Adhikari, Bishwo and Peltom{\"a}ki, Jukka and Germi, Saeed Bakhshi and Rahtu, Esa and Huttunen, Heikki",
+editor="Habli, Ibrahim and Sujan, Mark and Gerasimou, Simos and Schoitsch, Erwin and Bitsch, Friedemann",
+title="Effect of Label Noise on Robustness of Deep Neural Network Object Detectors",
+booktitle="Computer Safety, Reliability, and Security. SAFECOMP 2021 Workshops",
+year="2021",
+publisher="Springer International Publishing",
+address="Cham",
+pages="239--250",
+isbn="978-3-030-83906-2"}
 ```
