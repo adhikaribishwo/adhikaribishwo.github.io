@@ -3,8 +3,8 @@ title: "Prediction of future paths of mobile objects using path library"
 collection: publications
 permalink: /publication/paper-7
 excerpt: 'A path library-based method to predict future paths of mobile objects.'
-# date: 'March 2021'
-# venue: '24th Automation Conference of the Finnish Society of Automation'
+date: 'Nov 2021'
+venue: 'Open Engineering'
 # paperurl: 'http://adhikaribishwo.github.io/files/paper4.pdf'
 citation: ' Leppäkoski, Helena, Adhikari, Bishwo, Raivio, Leevi and Ritala, Risto. "Prediction of future paths of mobile objects using path library" Open Engineering, vol. 11, no. 1, 2021, pp. 1048-1058. https://doi.org/10.1515/eng-2021-0103'
 ---
