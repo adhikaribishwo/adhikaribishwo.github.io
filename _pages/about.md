@@ -6,8 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a doctoral researcher at [Tampere University](https://www.tuni.fi/en), Finland. Where, I am working on efficient object annotation methods on image datasets(bounding boxes) and low resource implementation of object detection on embedded devices.
-Recently, I joined [Silo AI](https://www.silo.ai), the largest private AI lab in the Nordics, as AI scientist. Where, I am working on making AI as a product for clients. 
+I am a doctoral researcher at [Tampere University](https://www.tuni.fi/en), Finland. Where, I am working on efficient object annotation methods for image datasets(bounding boxes) and object detection on low-resourced computing devices *i.e.,* embedded devices such as Raspberry Pi.
+I am working at [Silo AI](https://www.silo.ai), the largest private AI lab in the Nordics, as AI scientist. Where, my duties includes making AI as a product for clients from different sectors. 
 <!-- the supervision of Associate Professor [Heikki Huttunen](http://www.cs.tut.fi/~hehu/) and Associate Professor [Esa Rahtu](https://esa.rahtu.fi/). -->
 
 <!-- This is my google [site](https://sites.google.com/view/bishwoadhikari/home).   -->
@@ -28,6 +28,6 @@ Recently, I joined [Silo AI](https://www.silo.ai), the largest private AI lab in
 
 ## Research Interests
 <!-- ====== -->
-Machine Learning, Deep Learning, Computer Vision, Object Detection, Image Annotation
+Machine Learning, Deep Learning, Computer Vision, Object Detection, Image Annotation, Embedded AI
 <!-- -- Resource efficient object detection, automatic data annotation -->
  
