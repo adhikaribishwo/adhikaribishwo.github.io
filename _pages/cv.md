@@ -63,14 +63,16 @@ Skills
 * Software and Libraries
   * TensorFlow, Keras, OpenCV, PyTorch
   * Numpy, Panda, Sklearn, Matpoltlib
-  * AWS, Azure
+
+* Cloud technologies
+  * GCP, AWS, Azure
 
   
 Service and Leadership
 ==========
 * [TATTE](https://tieteentekijat.fi/en/union-close-to-you/member-associations/tampereen-yliopiston-tieteentekijat-ry-tatte/) board member, 2021
-* Team leader on the Demola Project from M-files.
-* Tenant committee board member at [TOAS](https://wainola.wordpress.com/) student housing, 2019 - 2021 
+* Tenant committee board member at [TOAS](https://wainola.wordpress.com/) student housing, 2019 - 2021
+<!-- * Team leader on the Demola Project from M-files, 2017. -->
 <!-- * Student Tutor, 2017 - 2020 -->
 
 
