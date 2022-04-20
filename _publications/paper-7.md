@@ -5,8 +5,9 @@ permalink: /publication/paper-7
 excerpt: 'A path library-based method to predict future paths of mobile objects.'
 date: 'Nov 2021'
 venue: 'Open Engineering'
+paperurl: 'https://doi.org/10.1515/eng-2021-0103'
 # paperurl: 'http://adhikaribishwo.github.io/files/paper4.pdf'
-citation: ' Leppäkoski, Helena, Adhikari, Bishwo, Raivio, Leevi and Ritala, Risto. "Prediction of future paths of mobile objects using path library" Open Engineering, vol. 11, no. 1, 2021, pp. 1048-1058. https://doi.org/10.1515/eng-2021-0103'
+# citation: ' Leppäkoski, Helena, Adhikari, Bishwo, Raivio, Leevi and Ritala, Risto. "Prediction of future paths of mobile objects using path library" Open Engineering, vol. 11, no. 1, 2021, pp. 1048-1058. https://doi.org/10.1515/eng-2021-0103'
 ---
 This paper introduces a privacy-preserving instance-based prediction method, where a path library is collected by learning earlier paths of mobile objects in the area of surveillance. The predictions are based on the library of the observed past paths in the area and a short initial path segment that is estimated from the coordinates of the most recent object detections from an inexpensive, privacy-preserving vision system.
 

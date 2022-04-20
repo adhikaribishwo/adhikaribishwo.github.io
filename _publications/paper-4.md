@@ -6,7 +6,7 @@ excerpt: 'This paper is studies the effect of label noise on training dataset fo
 date: 'September 2021'
 venue: 'SafeComp, WAISE 2021'
 paperurl: 'https://doi.org/10.1007/978-3-030-83906-2_19'
-citation: 'Adhikari B., Peltomäki J., Germi S.B., Rahtu E., Huttunen H. (2021) Effect of Label Noise on Robustness of Deep Neural Network Object Detectors. In: Habli I., Sujan M., Gerasimou S., Schoitsch E., Bitsch F. (eds) Computer Safety, Reliability, and Security. SAFECOMP 2021 Workshops. SAFECOMP 2021. Lecture Notes in Computer Science, vol 12853. Springer, Cham. https://doi.org/10.1007/978-3-030-83906-2_19'
+# citation: 'Adhikari B., Peltomäki J., Germi S.B., Rahtu E., Huttunen H. (2021) Effect of Label Noise on Robustness of Deep Neural Network Object Detectors. In: Habli I., Sujan M., Gerasimou S., Schoitsch E., Bitsch F. (eds) Computer Safety, Reliability, and Security. SAFECOMP 2021 Workshops. SAFECOMP 2021. Lecture Notes in Computer Science, vol 12853. Springer, Cham. https://doi.org/10.1007/978-3-030-83906-2_19'
 
 ---
 This paper studies the sensitivity of object detection loss functions to label noise in bounding box detection tasks.

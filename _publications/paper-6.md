@@ -5,8 +5,8 @@ permalink: /publication/paper-6
 excerpt: 'Towards a Real-Time Facial Analysis System.'
 date:   'October 2021'
 venue: ' IEEE 23rd International Workshop on Multimedia Signal Processing (MMSP)'
-# paperurl: 'https://arxiv.org/abs/2105.04678'
-citation: ' B. Adhikari, X. Ni, E. Rahtu and H. Huttunen, "Towards a Real-Time Facial Analysis System," 2021 IEEE 23rd International Workshop on Multimedia Signal Processing (MMSP), 2021, doi:10.1109/MMSP53017.2021.9733663.'
+paperurl: 'https://doi.org/10.1109/MMSP53017.2021.9733663'
+# citation: ' B. Adhikari, X. Ni, E. Rahtu and H. Huttunen, "Towards a Real-Time Facial Analysis System," 2021 IEEE 23rd International Workshop on Multimedia Signal Processing (MMSP), 2021, doi:10.1109/MMSP53017.2021.9733663.'
 ---
 This paper presents a system-level design of a real-time facial analysis system. The system consists of a collection of deep neural networks for object detection, classification, and regression tasks that together recognize the age, gender, facial expression, and facial similarity for each person appearing in the camera view.
 
