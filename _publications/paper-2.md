@@ -10,7 +10,7 @@ citation: 'B. Adhikari and H. Huttunen, "Iterative Bounding Box Annotation for O
 ---
 This paper proposes an annotation framework that uses an incremental learning approach on a small batch of manually labeled images, trains a detection model, uses freshly trained model to propose bounding boxes on a batch of unlabeled images, and requests the annotator do the correction on possible incorrect bounding boxes or labels proposals.
 
-Download arXiv version of the paper from [here](https://arxiv.org/abs/2007.00961)
+<!-- Download arXiv version of the paper from [here](https://arxiv.org/abs/2007.00961) -->
 
 Cite this article as:
 

@@ -11,12 +11,6 @@ citation: 'Adhikari B., Peltomäki J., Germi S.B., Rahtu E., Huttunen H. (2021) 
 ---
 This paper studies the sensitivity of object detection loss functions to label noise in bounding box detection tasks.
 
-<!-- [Download paper here](http://adhikaribishwo.github.io/files/paper4.pdf) -->
-
-
-<!-- More information coming soon ... -->
-
-<!-- Recommended citation: Your Name, You. (2015). "Paper Title Number 4." <i>Journal 1</i>. 1(3). --> 
 
 Cite this article as:
 

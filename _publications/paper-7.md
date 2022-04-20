@@ -10,7 +10,7 @@ citation: ' Leppäkoski, Helena, Adhikari, Bishwo, Raivio, Leevi and Ritala, Ris
 ---
 This paper introduces a privacy-preserving instance-based prediction method, where a path library is collected by learning earlier paths of mobile objects in the area of surveillance. The predictions are based on the library of the observed past paths in the area and a short initial path segment that is estimated from the coordinates of the most recent object detections from an inexpensive, privacy-preserving vision system.
 
-More information coming soon ...
+<!-- More information coming soon ... -->
 
 <!-- [Download arXiv version of paper here](https://arxiv.org/abs/2105.04678) -->
 
