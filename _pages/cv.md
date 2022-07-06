@@ -2,7 +2,7 @@
 layout: archive
 title: "CV"
 permalink: /cv/
-author_profile: true
+author_profile: false
 redirect_from:
   # - /resume
   # - /cv.html
@@ -13,8 +13,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Machine Learning, Tampere University, Spring 2022 (expected)
+* Ph.D in Machine Learning, Tampere University, June 2022
   * Machine learning, deep learning, object detection, image annotation
+  * Thesis [Computer Assisted Image Labeling for Object Detection Using Deep Learning](https://trepo.tuni.fi/handle/10024/140164)
 
 * M.Sc.in Information Technology, Tampere University of Technology, June 2018
   * Major in Machine Learning
@@ -28,7 +29,7 @@ Education
   * Awarded with graduation scholarship
 
 
-Work experience
+Work experiences
 ======
 * Doctoral candidate (Researcher) 08.2018 -- present  
   * Tampere University, Machine Learning Group

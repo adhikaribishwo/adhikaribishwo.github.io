@@ -7,7 +7,7 @@ author_profile: true
 #   - /contact.html
 ---
 
-* Tampere University, Tampere, Finland
+<!-- * Tampere University, Tampere, Finland
 * Hervanta Campus, TC311
-* bishwo.adhikari(at)tuni.fi
+* bishwo.adhikari(at)tuni.fi -->
 * info.bishwo(at)gmail.com
