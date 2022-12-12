@@ -31,14 +31,19 @@ Education
 
 Work experiences
 ======
-* Doctoral candidate (Researcher) 08.2018 -- present  
+* AI Scientist 10.2021 -- present  
+  * SILO AI, Finland
+  * Scoping, implementing and delivering production-grade solutions for clients in various industries
+  * Advancing R&D projects in Machine Learning and related fields to build trustworthy highly innovative solutions and products
+
+* Doctoral Researcher 08.2018 -- 09.2021  
   * Tampere University, Machine Learning Group
   * Duties included: research work on light-weight object detection system for low-resource embedded devices
   * Experimenting efficient object annotation methods for object detection
   * Data collection and annotation
 
 * Teaching Assistant
-    * Courses: SGN-41007 Pattern Recognition and Machine learning 2018, Computer Vision 2020, Advanced Signal Processing Laboratory (2018, 2019). 
+    * Courses: SGN-41007 Pattern Recognition and Machine learning 2018, Computer Vision 2020, Advanced Signal Processing Laboratory (2018, 2019)
     * Tampere University, Hervanta Campus
     * Duties: Supervising course exercise sessions, assisting course participants in solving exercises, grading exams and assignments
  
@@ -46,7 +51,7 @@ Work experiences
 * Research Assistant 10.2017 -- 07.2018
   * Tampere University of Technology, Machine Learning Group
   * Duties included: Image annotation, experimenting automatic human detection in the mining environment
-  * Completed master thesis titled  "Camera-based Object Detection for Indoor Scenes."
+  * Completed master thesis titled  "Camera-based Object Detection for Indoor Scenes"
   
 
 
